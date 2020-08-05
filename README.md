@@ -2,4 +2,4 @@
 
 Straightforward, personal website showcasing my various works. Now with <ins>NO Javascript!</ins>
 
-[Pay me a visit.](https://skarmaniolos.github.io)
+[Pay me a visit.](https://dietofworms.github.io)
